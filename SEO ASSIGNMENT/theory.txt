@@ -1,0 +1,36 @@
+                                             SEO ASSIGNMENT SOLUTION 
+
+
+TASK 1 :What is SEO and explain the importance of SEO?
+SOLUTION : Search engine optimization (SEO) is a set of practices that improve a website's ranking in search engines. The goal of SEO is to increase 
+a website's visibility and get more organic traffic. SEO can be considered a subset of internet or web marketing .
+ 
+ SEO is important because -
+ 1. Increase a website's visibility in search engines
+ 2.  Get more organic traffic
+ 3. Bring potential customers
+  4.Improve brand awareness
+  5. Build relationships with prospects
+   6.Position a business as an expert in its field
+
+
+   TASK 3 - What are the Benefits of Using Meta Tags ?
+   SOLUTION - Meta tags are part of a website's HTML code that help search engines understand information about the 
+   website. They can help improve a website's visibility and ranking in search engine results. 
+
+Benefits of SEO
+  1.Improving search engine optimization (SEO)
+  2.Improving click-through rates
+  3.Providing relevancy
+  4.Saving time
+  5.Optimizing the site without making it untidy
+  6.Quickly implementing
+  7.Tracking metrics better
+
+
+
+TASK 5 - Define Favicon and give an illustrative example.
+SOLUTION - A favicon is a small square icon associated with a particular website.
+Regarding origin, the term favicon combines two words: “favorite” and “icon.”
+So, a favicon is your company’s favorite icon. It’s a symbol that represents your brand or website.
+A favicon is a critical part of your site identity alongside your site title, tagline, and logo .
